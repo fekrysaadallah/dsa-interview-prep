@@ -1,6 +1,6 @@
 /**
  * 151. Reverse Words in a String
- * Link: https://leetcode.com/reverse-words-in-a-string/
+ * Link: https://leetcode.com/problems/reverse-words-in-a-string/
  * Time: O(n)
  * Space: O(n)
  */
