@@ -1,7 +1,7 @@
 /**
  * 392. Is Subsequence
  * Link: https://leetcode.com/problems/is-subsequence/
- * Time: O(s + t)
+ * Time: O(t)
  * Space: O(1)
  */
 
